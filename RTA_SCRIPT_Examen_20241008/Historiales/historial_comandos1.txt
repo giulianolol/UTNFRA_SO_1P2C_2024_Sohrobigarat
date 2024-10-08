@@ -1,0 +1,187 @@
+ls -l
+pwd
+mkdir repogit
+cd repogit/
+git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+ls -l
+git clone https://github.com/giulianolol/UTNFRA_SO_1P2C_2024_Sohrobigarat
+ls -l
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+~/.bashrc && history -a
+ls -l
+sudo ls -l
+sudo ~/.bashrc && history -a
+ls -l
+ls UTN-FRA_SO_Examenes/
+ls -l UTNFRA_SO_1P2C_2024_Sohrobigarat/
+cat ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+ls -l
+cd UTNFRA_SO_1P2C_2024_Sohrobigarat/
+ls -l
+ls -l RTA_SCRIPT_Examen_20241008/
+ls -l RTA_ARCHIVOS_Examen_20241008/_Examen_20241008/
+ls -l RTA_ARCHIVOS_Examen_20241008/
+ls -l -a RTA_ARCHIVOS_Examen_20241008/
+cd ..
+ls -l
+ssh-keygen -t ed25519
+cat /home/vagrant/.ssh/id_ed25519.pub
+ls -l
+cd UTNFRA_SO_1P2C_2024_Sohrobigarat/
+ls -l
+RTA_SCRIPT_Examen_20241008/
+ls -l
+cd RTA_SCRIPT_Examen_20241008/
+ls -l
+vim Punto_A.sh
+ls -l
+vim
+ls -l
+vim
+vim Script\ actualizar_permisos_de_ejecucion 
+ls -l
+chmod +x Script\ actualizar_permisos_de_ejecucion
+ls -l
+chmod +x Script\ actualizar_permisos_de_ejecucion.sh
+rm *r Script\ actualizar_permisos_de_ejecucion
+ls -l
+./Script\ actualizar_permisos_de_ejecucion.sh 
+ls -l
+./Script actualizar_permisos_de_ejecucion.sh 
+./ Script actualizar_permisos_de_ejecucion.sh 
+ls -l
+rm -r Script\ actualizar_permisos_de_ejecucion.sh 
+ls -l
+vim
+ls -l
+vim ScriptActualizarPermisos 
+ls -l
+rm -r ScriptActualizarPermisos
+ls -l
+chmod +x ScriptActualizarPermisos.sh
+ls -l
+./ScriptActualizarPermisos.sh 
+vim ScriptActualizarPermisos.sh 
+./ScriptActualizarPermisos.sh 
+ls -l
+vim ScriptActualizarPermisos.sh 
+cd ..
+ls -l
+cd RTA_SCRIPT_Examen_20241008/
+git add .
+git commit -m "Add: Resolución primer punto + Script para actualizar permisos autmaticamente."
+git config user.email gino.sohro@yahoo.com.ar
+git config user.name giulianolol
+git commit -m "Add: Resolución primer punto + Script para actualizar permisos autmaticamente."
+git push origin master
+git push origin main
+git commit -m "Add: Resolución primer punto + Script para actualizar permisos autmaticamente."
+git push origin main
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+ssh-add ~/.ssh/id_ed25519
+cat ssh-add ~/.ssh/id_ed25519.pub
+git push origin main
+ls -l
+cd ..
+ls -l
+cd RTA_SCRIPT_Examen_20241008/
+ls -l
+vim Punto_A.sh
+vim ScriptActualizarPermisos.sh 
+ls -l
+cd ..
+ls -l
+cd ..
+ls -l
+rm -r UTNFRA_SO_1P2C_2024_Sohrobigarat/
+ls -l
+sudo rm -r UTNFRA_SO_1P2C_2024_Sohrobigarat/
+ls -l
+cd ..
+ls -l
+cd repogit/
+ls -l
+ssh-keygen -t rsa -b 4096 -C "gino.sohro@yahoo.com.ar"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+cat ~/.ssh/id_rsa.pub
+ls -l
+git clone git@github.com:giulianolol/UTNFRA_SO_1P2C_2024_Sohrobigarat.git
+ls -l
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+~/.bashrc && history -a
+cat UTNFRA_SO_1P2C_2024_Sohrobigarat/
+ls -l
+cd UTNFRA_SO_1P2C_2024_Sohrobigarat
+ls l-
+ls -l
+cd ..
+ls -l
+cd ..
+ls -l
+cd ..
+ls -l
+cd home/
+cd vagrant/
+ls -l
+cd repogit/
+ls -l
+cd UTNFRA_SO_1P2C_2024_Sohrobigarat/
+ls -l
+cd RTA_SCRIPT_Examen_20241008/
+ls -l
+vim
+vim Punto_
+ls -l
+vim Punto_A.sh
+ls -l
+vim
+ls -l
+chmod +x ScriptActualizarPermisos 
+vim ScriptActualizarPermisos 
+ls -l
+chmod +x ScriptActualizarPermisos.sh 
+ls -l
+rm -r ScriptActualizarPermisos
+ls -l
+./ScriptActualizarPermisos.sh
+ls -l
+./Punto_A.sh
+ls -l
+cd ..
+ls -l
+cd ..
+ls -l
+cd ..
+ls -l
+cd ..
+ls -l
+tree Examenes-UTN/
+sudo apt update
+install apt tree
+apt install tree
+sudo apt install tree
+pẃd
+pwd
+ls -l
+tree Examenes-UTN/
+cd home/
+ls -l
+cd vagrant/
+ls -l
+cd repogit/
+ls -l
+cd UTNFRA_SO_1P2C_2024_Sohrobigarat/
+ls -l
+tree RTA_S
+tree RTA_SCRIPT_Examen_20241008/
+cdls -l
+ls -l
+git add .
+git commit -m "Add: Punto 1 Resuelto + Script para actualizar todos los archivos."
+git config user.email "gino.sohro@yahoo.com.ar"
+git config user.name "giulianolol"
+git commit -m "Add: Punto 1 Resuelto + Script para actualizar todos los archivos."
+git push origin main
+history -a
