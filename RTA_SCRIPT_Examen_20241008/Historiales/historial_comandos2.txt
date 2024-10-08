@@ -1,0 +1,321 @@
+    1  ls -l
+    2  pwd
+    3  mkdir repogit
+    4  cd repogit/
+    5  git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+    6  ls -l
+    7  git clone https://github.com/giulianolol/UTNFRA_SO_1P2C_2024_Sohrobigarat
+    8  ls -l
+    9  ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+   10  ~/.bashrc && history -a
+   11  ls -l
+   12  sudo ls -l
+   13  sudo ~/.bashrc && history -a
+   14  ls -l
+   15  ls UTN-FRA_SO_Examenes/
+   16  ls -l UTNFRA_SO_1P2C_2024_Sohrobigarat/
+   17  cat ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+   18  ls -l
+   19  cd UTNFRA_SO_1P2C_2024_Sohrobigarat/
+   20  ls -l
+   21  ls -l RTA_SCRIPT_Examen_20241008/
+   22  ls -l RTA_ARCHIVOS_Examen_20241008/_Examen_20241008/
+   23  ls -l RTA_ARCHIVOS_Examen_20241008/
+   24  ls -l -a RTA_ARCHIVOS_Examen_20241008/
+   25  cd ..
+   26  ls -l
+   27  ssh-keygen -t ed25519
+   28  cat /home/vagrant/.ssh/id_ed25519.pub
+   29  ls -l
+   30  cd UTNFRA_SO_1P2C_2024_Sohrobigarat/
+   31  ls -l
+   32  RTA_SCRIPT_Examen_20241008/
+   33  ls -l
+   34  cd RTA_SCRIPT_Examen_20241008/
+   35  ls -l
+   36  vim Punto_A.sh
+   37  ls -l
+   38  vim
+   39  ls -l
+   40  vim
+   41  vim Script\ actualizar_permisos_de_ejecucion 
+   42  ls -l
+   43  chmod +x Script\ actualizar_permisos_de_ejecucion
+   44  ls -l
+   45  chmod +x Script\ actualizar_permisos_de_ejecucion.sh
+   46  rm *r Script\ actualizar_permisos_de_ejecucion
+   47  ls -l
+   48  ./Script\ actualizar_permisos_de_ejecucion.sh 
+   49  ls -l
+   50  ./Script actualizar_permisos_de_ejecucion.sh 
+   51  ./ Script actualizar_permisos_de_ejecucion.sh 
+   52  ls -l
+   53  rm -r Script\ actualizar_permisos_de_ejecucion.sh 
+   54  ls -l
+   55  vim
+   56  ls -l
+   57  vim ScriptActualizarPermisos 
+   58  ls -l
+   59  rm -r ScriptActualizarPermisos
+   60  ls -l
+   61  chmod +x ScriptActualizarPermisos.sh
+   62  ls -l
+   63  ./ScriptActualizarPermisos.sh 
+   64  vim ScriptActualizarPermisos.sh 
+   65  ./ScriptActualizarPermisos.sh 
+   66  ls -l
+   67  vim ScriptActualizarPermisos.sh 
+   68  cd ..
+   69  ls -l
+   70  cd RTA_SCRIPT_Examen_20241008/
+   71  git add .
+   72  git commit -m "Add: Resolución primer punto + Script para actualizar permisos autmaticamente."
+   73  git config user.email gino.sohro@yahoo.com.ar
+   74  git config user.name giulianolol
+   75  git commit -m "Add: Resolución primer punto + Script para actualizar permisos autmaticamente."
+   76  git push origin master
+   77  git push origin main
+   78  git commit -m "Add: Resolución primer punto + Script para actualizar permisos autmaticamente."
+   79  git push origin main
+   80  eval "$(ssh-agent -s)"
+   81  ssh-add ~/.ssh/id_rsa
+   82  ssh-add ~/.ssh/id_ed25519
+   83  cat ssh-add ~/.ssh/id_ed25519.pub
+   84  git push origin main
+   85  ls -l
+   86  cd ..
+   87  ls -l
+   88  cd RTA_SCRIPT_Examen_20241008/
+   89  ls -l
+   90  vim Punto_A.sh
+   91  vim ScriptActualizarPermisos.sh 
+   92  ls -l
+   93  cd ..
+   94  ls -l
+   95  cd ..
+   96  ls -l
+   97  rm -r UTNFRA_SO_1P2C_2024_Sohrobigarat/
+   98  ls -l
+   99  sudo rm -r UTNFRA_SO_1P2C_2024_Sohrobigarat/
+  100  ls -l
+  101  cd ..
+  102  ls -l
+  103  cd repogit/
+  104  ls -l
+  105  ssh-keygen -t rsa -b 4096 -C "gino.sohro@yahoo.com.ar"
+  106  eval "$(ssh-agent -s)"
+  107  ssh-add ~/.ssh/id_rsa
+  108  cat ~/.ssh/id_rsa.pub
+  109  ls -l
+  110  git clone git@github.com:giulianolol/UTNFRA_SO_1P2C_2024_Sohrobigarat.git
+  111  ls -l
+  112  ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+  113  ~/.bashrc && history -a
+  114  cat UTNFRA_SO_1P2C_2024_Sohrobigarat/
+  115  ls -l
+  116  cd UTNFRA_SO_1P2C_2024_Sohrobigarat
+  117  ls l-
+  118  ls -l
+  119  cd ..
+  120  ls -l
+  121  cd ..
+  122  ls -l
+  123  cd ..
+  124  ls -l
+  125  cd home/
+  126  cd vagrant/
+  127  ls -l
+  128  cd repogit/
+  129  ls -l
+  130  cd UTNFRA_SO_1P2C_2024_Sohrobigarat/
+  131  ls -l
+  132  cd RTA_SCRIPT_Examen_20241008/
+  133  ls -l
+  134  vim
+  135  vim Punto_
+  136  ls -l
+  137  vim Punto_A.sh
+  138  ls -l
+  139  vim
+  140  ls -l
+  141  chmod +x ScriptActualizarPermisos 
+  142  vim ScriptActualizarPermisos 
+  143  ls -l
+  144  chmod +x ScriptActualizarPermisos.sh 
+  145  ls -l
+  146  rm -r ScriptActualizarPermisos
+  147  ls -l
+  148  ./ScriptActualizarPermisos.sh
+  149  ls -l
+  150  ./Punto_A.sh
+  151  ls -l
+  152  cd ..
+  153  ls -l
+  154  cd ..
+  155  ls -l
+  156  cd ..
+  157  ls -l
+  158  cd ..
+  159  ls -l
+  160  tree Examenes-UTN/
+  161  sudo apt update
+  162  install apt tree
+  163  apt install tree
+  164  sudo apt install tree
+  165  pẃd
+  166  pwd
+  167  ls -l
+  168  tree Examenes-UTN/
+  169  cd home/
+  170  ls -l
+  171  cd vagrant/
+  172  ls -l
+  173  cd repogit/
+  174  ls -l
+  175  cd UTNFRA_SO_1P2C_2024_Sohrobigarat/
+  176  ls -l
+  177  tree RTA_S
+  178  tree RTA_SCRIPT_Examen_20241008/
+  179  cdls -l
+  180  ls -l
+  181  git add .
+  182  git commit -m "Add: Punto 1 Resuelto + Script para actualizar todos los archivos."
+  183  git config user.email "gino.sohro@yahoo.com.ar"
+  184  git config user.name "giulianolol"
+  185  git commit -m "Add: Punto 1 Resuelto + Script para actualizar todos los archivos."
+  186  git push origin main
+  187  history -a
+  188  ls -l
+  189  cd RTA_SCRIPT_Examen_20241008/
+  190  ls -l
+  191  mkdir Historiales
+  192  ls -l
+  193  cd ..
+  194  ls -l
+  195  cd RTA_SCRIPT_Examen_20241008/
+  196  ls -l
+  197  history
+  198  history > historial_comandos.txt
+  199  cp ~/.bash_history historial_comandos.txt
+  200  ls -l
+  201  cat historial_comandos.txt 
+  202  ls -l
+  203  mv historial_comandos.txt Historiales/
+  204  ls -l
+  205  cd Historiales/
+  206  ls -l
+  207  cd ..
+  208  ls -l
+  209  git commit -m "Add: Historial Comandos 1 Agregado."
+  210  ls -l
+  211  cd RTA_SCRIPT_Examen_20241008/
+  212  ls -l
+  213  cd Historiales/
+  214  ls -l
+  215  mv historial_comandos.txt historial_comandos1.txt
+  216  ls -l
+  217  cd ..
+  218  ls -l
+  219  git add .
+  220  git commit -m "Add: Historial Comandos 1 Agregado."
+  221  git push origin main
+  222  ls -l
+  223  lsblk
+  224  sudo fdisk sdc
+  225  sudo fdisk /dev/sdc
+  226  lsblk
+  227  sudo fdisk/dev/sdc
+  228  sudo fdisk /dev/sdc
+  229  ls -l
+  230  cd RTA_SCRIPT_Examen_20241008/
+  231  ls -l
+  232  vim Punto_B.sh
+  233  ls -l
+  234  ./ScriptActualizarPermisos.sh 
+  235  ./Punto_B.sh
+  236  lsbk
+  237  lsklb
+  238  lsblk
+  239  vim Punto_B.sh
+  240  ls -l
+  241  man fdisk
+  242  fdisk --help
+  243  ls -l
+  244  lsblk -l
+  245  sudo fdisk /dev/sdc
+  246  lsblk
+  247  sudo fdisk /dev/sdc1
+  248  ls -l
+  249  vim Punto_B.sh
+  250  ./Punto_B.sh
+  251  sudo fdisk /dev/sdc1
+  252  vim Punto_B.sh
+  253  sudo fdisk /dev/sdc
+  254  sudo fdisk /dev/sdc1
+  255  ls -l
+  256  ./Punto_B.sh
+  257  ls -l
+  258  vim Punto_D.sh
+  259  ls -l
+  260  cd ..
+  261  ls -l
+  262  cd RTA_S
+  263  ls -l
+  264  cd RTA_SCRIPT_Examen_20241008/
+  265  ls -l
+  266  ./Punto_D.sh
+  267  pwd
+  268  ls -l
+  269  cd ..
+  270  ls -l
+  271  cd ..
+  272  ls -l
+  273  cd ..
+  274  ls -l
+  275  cd repogit/
+  276  ls -l
+  277  cd UTNFRA_SO_1P2C_2024_Sohrobigarat/
+  278  ls -l
+  279  git add .
+  280  git commit -m "Add: Punto D resuelto + pequeña explicación en el script"
+  281  git push origin master
+  282  git push origin main
+  283  ls -l
+  284  ls -l RTA_ARCHIVOS_Examen_20241008/
+  285  ls -l
+  286  cd RTA_SCRIPT_Examen_20241008/
+  287  ls -l
+  288  vim Punto_E.sh
+  289  ls -l
+  290  vim Punto_E.sh
+  291  echo grep Mem | awk '{print $2}'
+  292  echo grep Mem
+  293  ls -l
+  294  vim Punto_E.sh
+  295  cd ..
+  296  ls -l
+  297  cd RTA_ARCHIVOS_Examen_20241008/
+  298  ls -l
+  299  cd ..
+  300  vim Punto_D.sh
+  301  vim Punto_E.sh
+  302  ls -l
+  303  cd RTA_SCRIPT_Examen_20241008/
+  304  ls -l
+  305  rm -r Punto_E.sh
+  306  ls -l
+  307  cd ..
+  308  ls -l
+  309  mv Punto_E.sh RTA_SCRIPT_Examen_20241008/
+  310  ls -l
+  311  cd RTA_SCRIPT_Examen_20241008/
+  312  ls -l
+  313  ./ScriptActualizarPermisos.sh 
+  314  ls -l
+  315  vim Punto_E.sh
+  316  fg
+  317  vim Punto_E.sh
+  318  ls -l
+  319  mv historial_comandos.txt historial_comandos1.txt
+  320  history
+  321  history > historial_comandos2.txt
