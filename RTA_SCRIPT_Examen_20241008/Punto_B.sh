@@ -1,7 +1,8 @@
 #!/bin/bash
 #CONDICIÓN ANTES DE EJECUTAR ESTE SCRIPT: Ejecutar el script "Punto_A.sh" para crear los directorios donde se van a montar los discos.
-#CREAMOS LAS PARTICIONES
-sudo fdisk /dev/sdc
+#CREAR DOCUMENTO TXT PARA LAS PARTICIONES.
+cat > comandos_fdisk.txt <<EOF
+
 n
 p
 
@@ -40,6 +41,9 @@ n
 
 +1GB
 w
+EOF
+#CREAMOS LAS PARTICIONES
+sudo fdisk /dev/sdc < comandos_fdisk.txt
 #FORMATEAMOS
 sudo partprobe /dev/sdc
 sudo mkfs.ext4 /dev/sdc1
